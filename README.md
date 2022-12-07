@@ -12,5 +12,5 @@
 	<p>
 		Sometimes I make games. Check them out on my Itch.io page <a href="https://collydev.itch.io/" target="_blank">here</a>.
 	</p>
-	<img src="https://web.archive.org/web/20091026194518/http://geocities.com/Vienna/Opera/5409/cat.gif">
+	<img src="https://web.archive.org/web/20091019140401if_/http://www.geocities.com/mycatmaomao/xmao-3.gif">
 </div>
